@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@1,300 & display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+  }
+
+.umB{
+    background-color: #49aaff;
+    color: aliceblue;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    border: 1px solid #49aaff;
+    text-transform: uppercase;
+}
+.umB:hover{
+    background-color: aliceblue;
+    color: #49aaff;
+    border: 1px solid #49aaff;
+}
+.txt-up > h1 {
+    color: blueviolet;
+}
+
+
